@@ -1,0 +1,255 @@
+#EXTM3U
+#EXTINF:0,Radio NRW1
+http://stream.nrw1.de/nrw1/stream/mp3
+#EXTINF:0,FFN
+http://player.ffn.de/radioffn.mp3
+#EXTINF:0,FFN Hits
+http://player.ffn.de/ffnhits.mp3
+#EXTINF:0,FFN Rockt
+http://player.ffn.de/ffnrockt.mp3
+#EXTINF:0,FFN Gold
+http://player.ffn.de/ffngold.mp3
+#EXTINF:0,FFN 80er
+http://player.ffn.de/ffn80er.mp3
+#EXTINF:0,FFN 90er
+http://player.ffn.de/ffn90er.mp3
+#EXTINF:0,FFN Comedy
+http://player.ffn.de/ffncomedy.mp3
+#EXTINF:0,FFN Tannenbaum
+http://player.ffn.de/ffntannenbaum.mp3
+#EXTINF:0,Radio Bollerwagen
+http://player.ffn.de/radiobollerwagen.mp3
+#EXTINF:0,Peppermint FM
+http://player.ffn.de/peppermintfm.mp3
+#EXTINF:0,89.0 RTL Livestream
+http://stream.89.0rtl.de/live/mp3-256
+#EXTINF:0,89.0 RTL In The Mix
+http://stream.89.0rtl.de/mix/mp3-256
+#EXTINF:0,89.0 RTL Abriss
+http://stream.89.0rtl.de/abriss/mp3-256
+#EXTINF:0,89.0 RTL #Love
+http://stream.89.0rtl.de/love/mp3-256
+#EXTINF:0,89.0 RTL 90er
+http://stream.89.0rtl.de/90er/mp3-256
+#EXTINF:0,89.0 RTL 2000er
+http://stream.89.0rtl.de/2000er/mp3-256
+#EXTINF:0,89.0 RTL 2010er
+http://stream.89.0rtl.de/2010er/mp3-256
+#EXTINF:0,89.0 RTL Workout
+http://stream.89.0rtl.de/workout/mp3-256
+#EXTINF:0,89.0 RTL Summer Hits
+http://stream.89.0rtl.de/summer-hits/mp3-256
+#EXTINF:0,89.0 RTL Deutsch Rap
+http://stream.89.0rtl.de/deutsch-rap/mp3-256
+#EXTINF:0,89.0 RTL Chill-Zone
+http://stream.89.0rtl.de/chill-zone/mp3-256
+#EXTINF:0,89.0 RTL Deutsch House
+http://stream.89.0rtl.de/deutschhouse/mp3-256
+#EXTINF:0,89.0 RTL Party Trash
+http://stream.89.0rtl.de/party-trash/mp3-256
+#EXTINF:0,89.0 RTL Remmidemmi
+http://stream.89.0rtl.de/remmidemmi/mp3-256
+#EXTINF:0,89.0 RTL Dance Hits
+http://stream.89.0rtl.de/dancehits/mp3-256
+#EXTINF:0,89.0 RTL Flashback
+http://stream.89.0rtl.de/flashback/mp3-256
+#EXTINF:0,Radio Okerwelle
+http://stream.okerwelle.de/okw.mp3
+#EXTINF:0,Radio38
+http://rs27.stream24.net/radio38.mp3
+#EXTINF:0,N-JOY
+http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
+#EXTINF:0,N-JOY Weltweit
+http://icecast.ndr.de/ndr/loop/28/mp3/128/stream.mp3
+#EXTINF:0,N-JOY Club
+http://icecast.ndr.de/ndr/loop/5/mp3/128/stream.mp3
+#EXTINF:0,RadioEins
+http://www.radioeins.de/livemp3
+#EXTINF:0,1LIVE
+http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:0,1LIVE DIGGI
+http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Plan B
+http://wdr-1live-planb.icecast.wdr.de/wdr/1live/planb/mp3/128/stream.mp3
+#EXTINF:0,1LIVE DJ Session
+http://wdr-1live-djsession.icecast.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Neu für den Sektor
+http://wdr-1live-neufuerdensektor.icecast.wdr.de/wdr/1live/neufuerdensektor/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Hip Hop
+http://wdr-1live-hiphop.icecast.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Specials
+http://wdr-1live-specials.icecast.wdr.de/wdr/1live/specials/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Fiehe
+http://wdr-1live-fiehe.icecast.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Ruhrgebiet)
+http://wdr-wdr2-ruhrgebiet.icecast.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Rhein und Ruhr)
+http://wdr-wdr2-rheinruhr.icecast.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
+#EXTINF:0,WDR 3
+http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
+#EXTINF:0,WDR 4
+http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
+#EXTINF:0,WDR 5
+http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+#EXTINF:0,WDR Event
+http://wdr-wdr-event.icecast.wdr.de/wdr/wdr/event/mp3/128/stream.mp3
+#EXTINF:0,WDR VERA
+http://wdr-vera-live.icecast.wdr.de/wdr/vera/live/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO
+http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+#EXTINF:0,COSMO Vintage
+http://wdr-cosmo-special.icecast.wdr.de/wdr/cosmo/special/mp3/128/stream.mp3
+#EXTINF:0,COSMO Italia
+http://dispatcher.rndfnk.com/wdr/cosmo/italia/mp3/128/stream.mp3
+#EXTINF:0,COSMO Konzerte
+http://wdr-cosmo-coslive.icecast.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
+#EXTINF:0,Neu in COSMO
+http://wdr-cosmo-neuincosmo.icecast.wdr.de/wdr/cosmo/neuincosmo/mp3/128/stream.mp3
+#EXTINF:0,Die Maus
+http://wdr-diemaus-live.icecast.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
+#EXTINF:0,Radio Tonkuhle Hildesheim
+https://stream.tonkuhle.de/tonkuhle.mp3
+#EXTINF:0,Radio 21 Hildesheim
+https://streams.radio21.de/hildesheim/mp3-192/web
+#EXTINF:0,Radio 21 NRW
+https://streams.radio21.de/nrw/mp3-192/web
+#EXTINF:0,Bremen Eins
+http://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3
+#EXTINF:0,Bremen Zwei
+http://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
+#EXTINF:0,Bremen Vier
+http://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3
+#EXTINF:0,Bremen NEXT
+http://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3
+#EXTINF:0,SWR1 BW
+https://liveradio.swr.de/sw282p3/swr1bw/
+#EXTINF:0,SWR1 RP
+https://liveradio.swr.de/sw282p3/swr1rp/
+#EXTINF:0,SWR2
+https://liveradio.swr.de/sw282p3/swr2/
+#EXTINF:0,SWR3
+https://liveradio.swr.de/sw282p3/swr3/
+#EXTINF:0,SWR Aktuell
+https://liveradio.swr.de/sw282p3/swraktuell/
+#EXTINF:0,DASDING
+https://liveradio.swr.de/sw282p3/dasding/
+#EXTINF:0,SWR4 BW
+https://liveradio.swr.de/sw282p3/swr4bw/
+#EXTINF:0,SWR4 RP
+https://liveradio.swr.de/sw282p3/swr4rp/
+#EXTINF:0,SWR4 FR
+https://liveradio.swr.de/sw282p3/swr4fr/
+#EXTINF:0,SWR Event 1
+https://liveradio.swr.de/sw282p3/event01/
+#EXTINF:0,SWR2 Archirvradio
+https://liveradio.swr.de/sw331ch/raka02/
+#EXTINF:0,SWR3 Lyrix
+https://liveradio.swr.de/sw331ch/raka03/
+#EXTINF:0,SWR3 Rock
+https://liveradio.swr.de/sw331ch/raka05/
+#EXTINF:0,SWR3 Party
+https://liveradio.swr.de/sw331ch/raka06/
+#EXTINF:0,SWR3 Mottotage
+https://liveradio.swr.de/s344dh2/raka08/
+#EXTINF:0,SWR3 Specials
+https://liveradio.swr.de/s344dh2/raka09/
+#EXTINF:0,DASDING Chillout
+https://liveradio.swr.de/sw331ch/raka10/
+#EXTINF:0,DASDING Rap
+https://liveradio.swr.de/sw331ch/raka11/
+#EXTINF:0,DASDING Zukunftsmusik
+https://liveradio.swr.de/sw331ch/raka12/
+#EXTINF:0,DASDING Weekend WarmUp
+https://liveradio.swr.de/sw331ch/raka04/
+#EXTINF:0,DASDING Partyfieber
+https://liveradio.swr.de/sw331ch/raka07/
+#EXTINF:0,SWR1 Musik Klub Deutsch
+https://liveradio.swr.de/sw331ch/raka13/
+#EXTINF:0,SWR1 Musik Klub Rock
+https://liveradio.swr.de/sw331ch/raka14/
+#EXTINF:0,SWR1 Musik Klub Country
+https://liveradio.swr.de/sw331ch/raka15/
+#EXTINF:0,SWR1 Nr.1 Hits
+https://liveradio.swr.de/sw331ch/raka16/
+#EXTINF:0,SWR1 Events
+https://liveradio.swr.de/sw331ch/raka17/
+#EXTINF:0,SWR4 SWR Schlager
+https://liveradio.swr.de/sw331ch/raka18/
+#EXTINF:0,SWR4 SWR Big Band & Gäste
+https://liveradio.swr.de/sw331ch/raka19/
+#EXTINF:0,SWR4 SWR Sonntagskonzert
+https://liveradio.swr.de/sw331ch/raka20/
+#EXTINF:0,ANTENNE BAYERN
+http://stream.antenne.de/antenne/stream/mp3
+#EXTINF:0,ANTENNE BAYERN 2000er Hits
+http://stream.antenne.de/2000er-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN 2010er Hits
+http://stream.antenne.de/2010er-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN 70er Hits
+http://stream.antenne.de/70er-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN 80er Hits
+http://stream.antenne.de/80er-kulthits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN 90er Hits
+http://stream.antenne.de/90er-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Bayern Sound
+http://stream.antenne.de/bayern-sound/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Black Music
+http://stream.antenne.de/black-beatz/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Chillout  
+http://stream.antenne.de/chillout/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Classic Rock
+http://stream.antenne.de/classic-rock-live/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Coffee Music
+http://stream.antenne.de/coffee/stream/mp3
+#EXTINF:0,ANTENNE BAYERN DanceXXL
+http://stream.antenne.de/dance-xxl/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Deutsch Pop
+http://stream.antenne.de/deutsch-pop/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Event
+http://stream.antenne.de/event/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Faschings Hits
+http://stream.antenne.de/faschings-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Fresh
+http://stream.antenne.de/fresh/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Frühlingshits
+http://stream.antenne.de/fruehlings-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Greatest Hits
+http://stream.antenne.de/greatest-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Happy Hits
+http://stream.antenne.de/happy-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Herbst Hits
+http://stream.antenne.de/herbst-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Hits für Kids
+http://stream.antenne.de/hits-fuer-kids/stream/mp3
+#EXTINF:0,ANTENNE BAYERN In the mix
+http://stream.antenne.de/in-the-mix/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Lounge
+http://stream.antenne.de/lounge/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Lovesongs
+http://stream.antenne.de/lovesongs/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Mallorca Party
+http://stream.antenne.de/mallorca-party/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Nur die Musik
+http://stream.antenne.de/nur-die-musik/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Oktoberfest Hits
+http://stream.antenne.de/oktoberfest-hits/stream/mp3
+#EXTINF:0,OLDIE ANTENNE
+http://stream.oldie-antenne.de/oldie-antenne/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Party Hits
+http://stream.antenne.de/party-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Pop XXL
+http://stream.antenne.de/pop-xxl/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Relax
+http://stream.antenne.de/relax/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Schlagersahne
+http://stream.antenne.de/das-schlager-karussell/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Sommer Hits
+http://stream.antenne.de/sommer-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Top 1000
+http://stream.antenne.de/top-1000/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Top 40
+http://stream.antenne.de/top-40/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Weihnachtshits
+http://stream.antenne.de/weihnachts-hits/stream/mp3
+#EXTINF:0,ANTENNE BAYERN Workout
+http://stream.antenne.de/workout-hits/stream/mp3
